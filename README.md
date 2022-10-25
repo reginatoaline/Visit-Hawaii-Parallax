@@ -1,2 +1,2 @@
-# Visit-Hawaii-Parallax
- practicing parallax with information about Hawaiian Islands. 
+# Visit Hawaii (Parallax)
+ practicing parallax with "information" (lorem ipsum) about Hawaiian Islands. 
